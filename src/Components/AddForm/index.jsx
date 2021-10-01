@@ -46,7 +46,7 @@ function AddForm({
         type="text"
       />
       <br />
-      <button onClick={handleCadastro}>add</button>
+      <button onClick={handleCadastro}>Cadastrar</button>
     </div>
   );
 }
