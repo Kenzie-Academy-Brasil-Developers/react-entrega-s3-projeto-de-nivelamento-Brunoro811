@@ -1,0 +1,7 @@
+.CardProduct {
+  width: 100%;
+  max-width: 220px;
+  min-height: 100px;
+  padding: 5px;
+  border: 1px solid dimgray;
+}

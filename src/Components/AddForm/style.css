@@ -1,0 +1,21 @@
+.AddForm {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.AddForm h3 {
+  margin-bottom: 10px;
+}
+.AddForm input {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  border: 1px solid gray;
+}
